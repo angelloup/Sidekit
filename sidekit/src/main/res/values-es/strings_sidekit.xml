@@ -40,7 +40,7 @@
     <string name="sk_sidekit_key_corner_right">Esquina →</string>
     <string name="sk_sidekit_key_shoulder">Gatillo</string>
     <!-- What each key does, shown under the key's name. -->
-    <string name="sk_sidekit_hint_back">Volver a la pantalla anterior</string>
+    <string name="sk_sidekit_hint_back">Volver pantalla</string>
     <string name="sk_sidekit_hint_options">Mostrar más acciones</string>
     <string name="sk_sidekit_hint_move_up">Mover arriba</string>
     <string name="sk_sidekit_hint_move_down">Mover abajo</string>
