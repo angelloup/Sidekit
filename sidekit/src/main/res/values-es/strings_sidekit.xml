@@ -17,7 +17,7 @@
     <string name="sk_sidekit_colour_sage">Salvia</string>
     <string name="sk_sidekit_colour_lavender">Lavanda</string>
     <!-- Keypad modules. T9 and Sundial are product names. -->
-    <string name="sk_sidekit_keypad_qwerty">Mini QWERTY</string>
+    <string name="sk_sidekit_keypad_qwerty">QWERTY menor</string>
     <string name="sk_sidekit_keypad_gamepad">Mando</string>
     <!-- Keys, as listed in keypad mapping. Short: they sit in a list row. -->
     <string name="sk_sidekit_key_scan_code">Código de escaneo %1$d</string>
