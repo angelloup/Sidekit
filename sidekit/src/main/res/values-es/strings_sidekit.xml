@@ -5,10 +5,10 @@
     <string name="sk_sidekit_action_save">Guardar</string>
     <string name="sk_sidekit_action_send">Enviar</string>
     <string name="sk_sidekit_action_cancel">Cancelar</string>
-    <string name="sk_sidekit_action_undo">Deshacer</string>
+    <string name="sk_sidekit_action_undo">Borrar</string>
     <string name="sk_sidekit_action_delete">Eliminar</string>
-    <string name="sk_sidekit_options_none">No hay opciones</string>
-    <string name="sk_sidekit_options_close">Cerrar opciones</string>
+    <string name="sk_sidekit_options_none">Sin opciones</string>
+    <string name="sk_sidekit_options_close">Cerrar</string>
     <!-- Sidephone case colours. -->
     <string name="sk_sidekit_colour_lime">Lima</string>
     <string name="sk_sidekit_colour_orange">Naranja</string>
