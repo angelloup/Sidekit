@@ -44,7 +44,7 @@
     <string name="sk_sidekit_hint_options">Mostrar más acciones</string>
     <string name="sk_sidekit_hint_move_up">Mover arriba</string>
     <string name="sk_sidekit_hint_move_down">Mover abajo</string>
-    <string name="sk_sidekit_hint_move_right">Mover a la derecha</string>
+    <string name="sk_sidekit_hint_move_right">A la derecha</string>
     <string name="sk_sidekit_hint_move_left_cursor">Mover a la izquierda; cursor</string>
     <string name="sk_sidekit_hint_move_right_cursor">Mover a la derecha; cursor</string>
     <string name="sk_sidekit_hint_select_or_suggestion">Seleccionar o aceptar una sugerencia</string>
